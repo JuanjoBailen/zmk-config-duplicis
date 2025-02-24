@@ -1,7 +1,8 @@
-&matrix_transform {
+#include "duplicis.dtsi"
+
+&transform {
     col-offset = <7>;
 };
-
 &kscan {
     col-gpios = <
         &pro_micro 6 GPIO_ACTIVE_HIGH
