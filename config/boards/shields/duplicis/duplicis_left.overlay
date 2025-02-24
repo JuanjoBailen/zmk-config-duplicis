@@ -1,4 +1,4 @@
-#include "duplcis.dtsi"
+#include "duplicis.dtsi"
 
 &kscan {
     col-gpios = <&pro_micro 6 GPIO_ACTIVE_HIGH>,
