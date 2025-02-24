@@ -1,5 +1,3 @@
-#include "duplicis.dtsi"
-
 &transform {
     col-offset = <7>;
 };
@@ -17,4 +15,3 @@
         &pro_micro 18 GPIO_ACTIVE_HIGH
     >;
 };
-
